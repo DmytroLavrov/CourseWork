@@ -1,0 +1,41 @@
+C:\Users\ACER\source\repos\iYolo\iYolo\bin\Debug\iYolo.exe.config
+C:\Users\ACER\source\repos\iYolo\iYolo\bin\Debug\iYolo.exe
+C:\Users\ACER\source\repos\iYolo\iYolo\bin\Debug\iYolo.pdb
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.MainForm.resources
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.Properties.Resources.resources
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.exe
+C:\Users\ACER\source\repos\iYolo\iYolo\obj\Debug\iYolo.pdb
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.MainForm.resources
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.Properties.Resources.resources
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.GenerateResource.cache
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.exe
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.pdb
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.exe.config
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.exe
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.pdb
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.CopyComplete
+C:\Users\ACER\Source\Repos\CourseWork2\iYolo\iYolo\bin\Debug\spheres.json
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\spheres.json
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.exe.config
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.exe
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\iYolo.pdb
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.MainForm.resources
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.Properties.Resources.resources
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.csproj.CopyComplete
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.exe
+C:\Users\ACER\Downloads\Навчання\Навчання\Курсова\моя курсова\Готовий проект + збереження\CourseWork2\iYolo\iYolo\obj\Debug\iYolo.pdb
